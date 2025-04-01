@@ -96,4 +96,4 @@ The notebook provides plots for training/validation accuracy and loss. These vis
 
 - Built with TensorFlow and Keras
 - Dataset courtesy of Kaggle
-- Developed by [Your Name](https://github.com/yourusername)
+- Developed by Abhinav Mishra (https://github.com/Abhi12002)
